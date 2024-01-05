@@ -1,6 +1,6 @@
 # Gradio Demo
 
-Gradio ChatInterface を使うデモです・
+Gradio ChatInterface を使うデモです。
 
 ![](./screenshot.png)
 
